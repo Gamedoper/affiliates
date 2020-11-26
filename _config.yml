@@ -5,7 +5,7 @@ meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: 'https://affiliates.gamedoper.com
+baseurl: 'https://affiliates.gamedoper.com'
 email: 'gamedoperblog@gmail.com'
 google_analytics: ''
 disqus: 'demowebsite'
